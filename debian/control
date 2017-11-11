@@ -3,15 +3,15 @@ Section: admin
 Priority: optional
 Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
 Build-Depends: debhelper (>=9)
-Standards-Version: 3.9.6
+Standards-Version: 3.9.7
 Homepage: http://github.com/xentaos/xenta-mirrors
-#Vcs-Git: git://anonscm.debian.org/collab-maint/xenta-mirrors.git
-#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/xenta-mirrors.git
+Vcs-Browser: https://github.com/xentaos/xenta-mirrors.git
 
 Package: xenta-mirrors
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Conflicts: mintupdate (<= 4.3.4)
 Replaces: mintupdate (<= 4.3.4), mintupdate-debian (<= 1.0.7)
-Description: Xenta OS Repository mirrors
- List of Xenta OS Repository mirrors.
+Description: Paket Pasangan Xenta Software Source.
+ Xenta OS Repository mirrors menampilkan
+ List dari mirorring Xenta OS Repository.
