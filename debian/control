@@ -1,11 +1,11 @@
 Source: xenta-mirrors
 Section: admin
 Priority: optional
-Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.7
-Homepage: http://github.com/xentaos/xenta-mirrors
-Vcs-Browser: https://github.com/xentaos/xenta-mirrors.git
+Homepage: http://github.com/xentaoslinux/xenta-mirrors
+Vcs-Browser: https://github.com/xentaoslinux/xenta-mirrors.git
 
 Package: xenta-mirrors
 Architecture: all
